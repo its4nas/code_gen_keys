@@ -258,11 +258,4 @@ document.addEventListener('DOMContentLoaded', () => {
         keyCountLabel.innerText = 'Number of keys:';
     });
 
-    document.getElementById('creatorChannelBtn').addEventListener('click', () => {
-        window.open('https://telegram.me/Insta_Buy_Follower', '_blank');
-    });
-
-    telegramChannelBtn.addEventListener('click', () => {
-        window.open('https://telegram.me/Sam_Dm_bot', '_blank');
-    });
 });
