@@ -54,12 +54,12 @@ document.addEventListener('DOMContentLoaded', () => {
             promoId: 'ef319a80-949a-492e-8ee0-424fb5fc20a6'
         },
         11 :{
-            name: 'Hide',
+            name: 'Hide Ball',
             appToken: '4bf4966c-4d22-439b-8ff2-dc5ebca1a600',
             promoId: '4bf4966c-4d22-439b-8ff2-dc5ebca1a600'
         },
         12 :{
-            name: 'Bounc',
+            name: 'Bouncemasters',
             appToken: 'bc72d3b9-8e91-4884-9c33-f72482f0db37',
             promoId: 'bc72d3b9-8e91-4884-9c33-f72482f0db37'
         }
