@@ -48,10 +48,20 @@ document.addEventListener('DOMContentLoaded', () => {
             appToken: '8d1cc2ad-e097-4b86-90ef-7a27e19fb833',
             promoId: 'dc128d28-c45b-411c-98ff-ac7726fbaea4'
         },
-        10:{
+        10 :{
             name: 'Mow and Trim',
             appToken: 'ef319a80-949a-492e-8ee0-424fb5fc20a6',
             promoId: 'ef319a80-949a-492e-8ee0-424fb5fc20a6'
+        },
+        11 :{
+            name: 'Hide',
+            appToken: '4bf4966c-4d22-439b-8ff2-dc5ebca1a600',
+            promoId: '4bf4966c-4d22-439b-8ff2-dc5ebca1a600'
+        },
+        12 :{
+            name: 'Bounc',
+            appToken: 'bc72d3b9-8e91-4884-9c33-f72482f0db37',
+            promoId: 'bc72d3b9-8e91-4884-9c33-f72482f0db37'
         }
     };
 
